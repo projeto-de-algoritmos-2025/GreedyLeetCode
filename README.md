@@ -18,8 +18,8 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 | -- | -- |
 |[]()|🟡 Médio|
 |[]()|🔴 Difícil|
-|[]()|🔴 Difícil|
-|[]()|🔴 Difícil|
+|[2931](https://leetcode.com/problems/maximum-spending-after-buying-items/description/)|🔴 Difícil|
+|[135](https://leetcode.com/problems/candy/description/)|🔴 Difícil|
 
 ## Screenshots
 
@@ -37,19 +37,19 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 - Problema: []() <br>
 - [Resposta]() <br>
 
-### Exerício 3 - []()
+### Exerício 3 - [Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items/description/)
 
-![]()
+![](prints/2931.png)
 - Dificuldade: 🔴 Difícil <br>
-- Problema: []() <br>
-- [Resposta]() <br>
+- Problema: [2931](https://leetcode.com/problems/maximum-spending-after-buying-items/description/) <br>
+- [Resposta](questoes/leetCode_2931.cpp) <br>
 
-### Exercício 4 - []()
+### Exercício 4 - [Candy](https://leetcode.com/problems/candy/description/)
 
-![]()
+![](prints/135.png)
 - Dificuldade: 🔴 Difícil <br>
-- Problema: []() <br>
-- [Resposta]() <br>
+- Problema: [135](https://leetcode.com/problems/candy/description/) <br>
+- [Resposta](questoes/leetCode_135.cpp) <br>
 
 ## Instalação 
 **Linguagem**: C++
